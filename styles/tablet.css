@@ -1,0 +1,92 @@
+
+
+
+
+#nav .button {
+  background-color: lightblue;
+  border: 2px solid rgba(33, 68, 72, .45);
+  margin: 1%;
+  padding: 7px;
+  border-radius: 15px;
+  text-decoration: none;
+  color: rgba(10, 20, 23, .9);
+  font: bold 1em "Comic Sans MS", cursive, sans-serif;
+  text-shadow: 0 2px 2px rgba(255, 255, 255, 0.2);
+}
+
+img {
+  width: 30px;
+}
+
+
+
+
+
+
+/*******************************************
+PORTFOLIO
+
+*******************************************/
+
+
+
+
+
+
+
+
+/*******************************************
+ABOUT
+
+*******************************************/
+
+
+#about {
+	margin-top: 10%;
+	margin-left: 6%;
+	text-align: center;
+	max-width: 600px;
+	margin-right: 1%;
+}
+
+
+
+
+
+
+/*******************************************
+CONTACT
+
+*******************************************/
+
+
+#generalInfo {
+	display: inline-block;
+	margin-top: 10%;
+	margin-left: 1%;
+	text-align: center;
+	max-width: 55%;
+	font-size: 80%;
+}
+
+#contact {
+	display: inline-block;
+	margin-top: 10%;
+	margin-left: 2%;
+	text-align: left;
+	max-width: 40%;
+	
+	font-size: 80%;
+
+}
+
+#contact ul {
+	display: inline;
+	
+}
+
+#contact ul li {
+   display: inline-block;
+	
+}
+
