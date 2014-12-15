@@ -28,7 +28,13 @@ PORTFOLIO
 
 *******************************************/
 
-
+#portfolioContent {
+	margin-top: 10%;
+	margin-left: 6%;
+	text-align: center;
+	max-width: 600px;
+	margin-right: 1%;
+}
 
 
 
@@ -41,7 +47,7 @@ ABOUT
 *******************************************/
 
 
-#about {
+#aboutContent {
 	margin-top: 10%;
 	margin-left: 6%;
 	text-align: center;
